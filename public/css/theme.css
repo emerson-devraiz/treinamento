@@ -1,0 +1,27 @@
+.theme 
+{
+    color: var(--cor-white);    
+    background-color: var(--cor-lighten-1);
+}
+
+.theme-reverse
+{
+    color: var(--cor-lighten-1);
+    background-color: var(--cor-white);
+}
+
+.theme-text
+{
+    color: var(--cor-white) !important;
+}
+
+.theme-text-reverse
+{
+    color: var(--cor-lighten-1) !important;
+}
+
+.theme-light-5
+{
+    color: var(--cor-lighten-1);    
+    background-color: var(--cor-lighten-5);
+}

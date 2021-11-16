@@ -1,0 +1,61 @@
+:root
+{
+    
+    /* Azul lighten-1 */
+    --cor-lighten-1: #42A5F5;
+    --cor-lighten-5: #e3f2fd;
+    
+    --cor-darken-2: #1976d2;
+
+    --cor-white: #fff;
+
+    --cor-cancelar: #F44336;
+    
+    /* Azul lighten-1 */
+
+    /* Cyan lighten-1 
+    --cor-lighten-1: #26c6da;
+    --cor-lighten-5: #e0f7fa;
+    
+    --cor-darken-2: #0097a7;
+
+    --cor-white: #fff;
+    --cor-cancelar: #F44336;*/
+    /* Cyan lighten-1 */
+
+    /* Red lighten-1 
+    --cor-lighten-1: #ef5350;
+    --cor-lighten-5: #ffebee;
+    
+    --cor-darken-2: #d32f2f;
+
+    --cor-white: #fff;
+    --cor-cancelar: #F44336;*/
+    /* Red lighten-1 */
+    
+
+    /*--background: #42A5F5;
+    --text: #fff;
+
+    --background-reverse: #fff;
+    --text-reverse: #42A5F5;
+    --text-reverse-hover: #1976d2;
+
+    --background-hover-sidenav: #e3f2fd;
+    --background-sidenav: #fff;
+
+    --background-light-5: #e3f2fd;*/
+
+
+    /* Red lighten-1 
+    --background: #ef5350;
+    --text: #fff;
+
+    --background-reverse: #fff;
+    --text-reverse: #ef5350;
+    --text-reverse-hover: #d32f2f;
+
+    --background-hover-sidenav: #ffebee;
+    --background-sidenav: #fff;
+    */
+}

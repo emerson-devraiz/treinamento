@@ -1,0 +1,36 @@
+/*.active
+{
+    color: var(--cor-lighten-1);
+}*/
+
+.e-input-theme label
+{
+    color: var(--cor-lighten-1) !important;
+}
+
+.e-input-theme label:focus
+{
+    color: var(--cor-lighten-1);
+}
+
+.e-input-theme input
+{
+    border-bottom: var(--cor-lighten-1) solid 1px !important;
+    margin-bottom: 0px !important;
+}
+
+.e-input-theme input:focus 
+{
+    box-shadow: 0 1px 0 0 var(--cor-lighten-1) !important;
+    border-bottom: var(--cor-lighten-1) solid 1px !important;
+}
+
+.e-input-theme input.valid
+{
+    box-shadow: 0 1px 0 0 var(--cor-lighten-1) !important;    
+}
+
+.e-input-theme input.invalid
+{
+    border-bottom: var(--cor-cancelar) solid 1px !important;
+}

@@ -1,0 +1,24 @@
+
+.e-card-principal
+{
+    border-radius: 10px;
+}
+
+.e-card-principal i
+{
+    font-size: 3rem;
+}
+
+.e-card-principal .card-content
+{
+    padding: 5px;
+}
+
+.e-waves-effect
+{
+    display: block !important;
+}
+
+
+
+

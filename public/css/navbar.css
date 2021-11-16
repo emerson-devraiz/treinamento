@@ -1,0 +1,105 @@
+nav .side-nav-trigger
+{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.e-container-logo-nav
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
+
+.e-container-logo-nav a
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.e-container-logo-nav a img
+{
+    padding: 5px;
+    height: 64px;
+}
+
+.e-container-logo-nav h4
+{
+    margin: 0px;
+}
+
+.e-container-saldo-nav
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.e-item-saldo-nav
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.e-item-saldo-nav span
+{
+    font-size: 14px;
+    text-align: right;
+    padding-right: 10px;
+    line-height: 32px;
+}
+
+.e-item-saldo-nav span:first-child
+{
+    font-weight: 500;
+}
+
+.e-item-saldo-nav span:last-child
+{
+    font-weight: bold;
+}
+
+
+.e-container-menu
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 64px;
+}
+
+.brand-logo div img
+{
+    padding: 5px;
+    height: 64px;
+}
+
+.brand-logo div h4
+{
+    margin: 0px;
+}
+
+
+i.left
+{
+    float: left;
+    margin-right: 5px;
+}
+
+
+.dropdown-content li>a, .dropdown-content li>span
+{
+    padding: 14px 10px;
+}
+
+.dropdown-content li>a>i
+{
+    margin: 0 10px 0 0;
+}
+
+

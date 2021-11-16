@@ -1,0 +1,36 @@
+.btn-theme
+{
+    background-color: var(--cor-lighten-1) !important;
+}
+
+.btn-theme:hover
+{
+    background-color: var(--cor-lighten-1);
+}
+
+.btn-cancelar
+{
+    background-color: var(--cor-cancelar) !important;
+    color: var(--cor-white);
+}
+
+.btn-cancelar:hover
+{
+    background-color: var(--cor-cancelar);
+}
+
+.btn-floating-theme
+{
+    background-color: var(--cor-white) !important;
+}
+
+.btn-floating-theme i
+{
+    color: var(--cor-lighten-1);
+}
+
+/*
+.btn-floating-theme:hover
+{
+    background-color: var(--cor-white);
+}*/

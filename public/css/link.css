@@ -1,0 +1,13 @@
+.e-link
+{
+    color: var(--cor-lighten-1); /* Variável q vem da página custom.css*/
+    text-decoration: underline;
+}
+
+.e-link:hover
+{
+	text-decoration: none;
+	color: var(--cor-darken-2); /* Variável q vem da página custom.css*/
+}
+
+

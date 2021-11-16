@@ -1,0 +1,41 @@
+/*
+main
+{
+    background-color: var(--cor-lighten-5);
+}
+*/
+.row
+{
+    margin-bottom: 0px;        
+}
+
+.full-height
+{
+    height: 100vh;
+}
+
+.full-width
+{
+    width: 100%;
+}
+
+.e-card-content
+{
+    padding: 0 15px 15px 15px !important; /*Top Right Bottom Left*/
+}
+
+.divider
+{
+    margin-top: 0px !important;
+}
+
+
+
+
+
+
+
+
+
+
+

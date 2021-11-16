@@ -1,0 +1,58 @@
+.side-nav
+{
+    width: auto;
+    min-width: 220px;
+    background-color: var(--cor-white);
+}
+
+/*nav
+{
+    height: 56px;
+}*/
+
+.side-nav .user-view
+{
+    margin-bottom: 0px;
+    padding-top: 18px;
+    padding-left: 10px;
+}
+
+.side-nav .user-view .name, .side-nav .user-view .email
+{
+    font-size: 14px;
+    line-height: 0px;
+}
+
+.side-nav li>a>i, .side-nav li>a>[class^="mdi-"], .side-nav li>a li>a>[class*="mdi-"], .side-nav li>a>i.material-icons
+{
+    margin: 0 5px 0 0;
+}
+
+.side-nav li>a>i, .side-nav li>a>[class^="mdi-"], .side-nav li>a li>a>[class*="mdi-"], .side-nav li>a>i.material-icons
+{
+    color: var(--cor-lighten-1);
+}
+
+.side-nav li>a
+{
+    color: var(--cor-lighten-1);
+    padding: 0 10px;
+    font-weight: normal;
+}
+
+nav .button-collapse
+{
+    margin: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
