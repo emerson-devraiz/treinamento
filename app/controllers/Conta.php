@@ -3,7 +3,7 @@
 use app\core\Controller;
 
 
-class Cliente extends Controller
+class Conta extends Controller
 {
     public function __construct()
     {
@@ -12,8 +12,9 @@ class Cliente extends Controller
 
     public function listar()
     {
-        
+        //echo 'Teste';
 
+        $objDados = '';
 
         $this->view('conta/listar', $objDados);
     }
