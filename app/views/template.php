@@ -75,32 +75,15 @@ main
                 <a href="#" data-activates="menu" class="button-collapse"><i class="material-icons" style="font-size: 33px;">menu</i></a>          
                 <a href="#!" class="brand-logo right hide-on-med-and-down">
                     <div class="e-container-row e-v-align-center">
-                        <img src="/images/logo-512.png" class="responsive-img" alt="">
-                        <!--<h4>CHRONOS</h4>-->
+                        <!--<img src="/images/logo-512.png" class="responsive-img" alt="">
+                        <h4>CHRONOS</h4>-->
                     </div>                    
                 </a>
-                <ul class="left hide-on-med-and-down">
-                    <li><a href="/principal/principal" class="p-left-10px"><i class="material-icons left">home</i>Principal</a></li>
-                    <li><a href="/principal/dashboard" class="p-left-5px"><i class="material-icons left">dashboard</i>Dashboad</a></li>
-                    <li><a href="/cartao/listar" class="p-left-5px"><i class="material-icons left">credit_card</i>Cart�es</a></li>
-                    <li><a href="/categoria/listar" class="p-left-5px"><i class="material-icons left">view_list</i>Categorias</a></li>
+                <ul class="left hide-on-med-and-down">                    
                     <li><a href="/conta/listar" class="p-left-5px"><i class="material-icons left">account_balance</i>Contas</a></li>
-                    <li><a href="/contato/listar" class="p-left-5px"><i class="material-icons left">groups</i>Contatos</a></li>
-                    <li><a href="/movimento/extrato" class="p-left-5px"><i class="material-icons left">grading</i>Extrato</a></li>
-
-                    <li>
-                        <a class="dropdown-button p-left-5px" href="#" data-Hover="true" data-constrainWidth="false" data-belowOrigin="true" data-activates="menu-relatorio"><i class="material-icons left">query_stats</i>Relat�rios</a>
-                    </li>
-
-                    <li><a href="/login/login" class="p-left-5px"><i class="material-icons left">logout</i>Sair</a></li>
                 </ul>
                 </div>
-            </div>
-
-            <ul id="menu-relatorio" class="dropdown-content">
-                <li><a href="/principal/dashboard" class="waves-effect theme-text-reverse"><i class="material-icons">list_alt</i>Relat�rio 1</a></li>
-                <li><a href="/principal/dashboard" class="waves-effect theme-text-reverse"><i class="material-icons">feed</i>Relat�rio 2</a></li>
-            </ul>            
+            </div>          
 
         </nav>
     </div>
