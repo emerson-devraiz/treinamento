@@ -202,7 +202,7 @@ main
     </div>-->
     <div class="footer-copyright">
         <div class="container p-left-20px p-right-20px">
-        � 2021 Copyright Text
+        &copy; 2021 Copyright Text
         <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
         </div>
     </div>
