@@ -4,7 +4,7 @@ namespace app\core;
 
 class App
 {
-    protected $controller = 'conta';
+    protected $controller = 'contas';
     protected $method     = 'listar';
     protected $params     = array();
     
@@ -55,7 +55,7 @@ class App
 
         if ($url[1] == '' && !isset($url[2]))
         {
-            $url[1] = 'conta';
+            $url[1] = 'contas';
             $url[2] = 'listar';
         }
 
